@@ -1,6 +1,6 @@
 # Intel Authenticated Code Modules (ACMs) research
 
-## Intel Boot Guard ACM & Intel Trusted Execution Technology ACM
+## Intel Boot Guard ACM & Intel Trusted Execution Technology (TXT) ACM
 
 - OffensiveCon 2020 - original talk - untrusted_acms.pdf
 
